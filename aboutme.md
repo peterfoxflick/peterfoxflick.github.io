@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: In case your curious
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Peter Flickinger. I'm a software developer, runner, and avid cooker from Colorado. My interests include web development, videography, learning new things, and snorkeling. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you would like to contact me just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeV6QeUg4rrcS9CNDByUmLOS00t_YCoZzBBpbsC4Yx9EMNOSQ/viewform?usp=sf_link).

@@ -19,9 +19,9 @@ author: Peter Flickinger
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Links:
+    - LinkedIn: "https://www.linkedin.com/in/peter-flickinger"
+    - YouTube: "https://www.youtube.com/channel/UCDLdo_NDR7XdL2UAKJXPFVQ"
 
 # --- Logo --- #
 
@@ -36,6 +36,9 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+collections:
+  goals:
+    output: true
 
 # --- Footer options --- #
 
