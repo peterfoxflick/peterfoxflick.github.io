@@ -7,10 +7,10 @@ title: Peter Fox Flick
 description: My little spot on the internet
 
 # url is the the website domain URL without a trailing slash
-url: "http://peterfoxflick.com/testSite"
+url: "http://peterfoxflick.com"
 
 # baseurl should be an empty string
-# baseurl: "me"
+# baseurl: ""
 
 # Your name to show in the footer
 author: Peter Flickinger
