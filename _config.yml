@@ -39,6 +39,8 @@ round-avatar: true
 collections:
   goals:
     output: true
+    permalink: /:collection/:title
+
 
 # --- Footer options --- #
 
