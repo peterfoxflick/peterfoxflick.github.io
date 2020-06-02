@@ -36,10 +36,9 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-collections: 
+collections:
   ref:
     output: true
-    permalink: :name
 
 
 # --- Footer options --- #
