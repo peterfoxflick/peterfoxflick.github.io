@@ -37,9 +37,9 @@ round-avatar: true
 #title-img: /path/to/image
 
 collections:
-  goals:
+  ref:
     output: true
-    permalink: /:collection/:title
+    permalink: :name
 
 
 # --- Footer options --- #
