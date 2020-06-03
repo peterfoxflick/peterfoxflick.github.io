@@ -19,3 +19,8 @@ Heres my ideas for the colors app, and its expirimental use of iCloud data
 ## Phase 3
 
 - Use of iCloud data
+
+## Day log
+
+### Day 1
+Completed color view, and color view model will change from rgb to hex
