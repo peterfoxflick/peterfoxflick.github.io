@@ -5,7 +5,12 @@ subtitle: Building a simple suggestion app
 tags: [iOS]
 ---
 
-Learning how to send notifications in iOS and create reminders was a fun task. The project was inspired by the book "5 Love Languages" and was simple. The user gets daily reminders to do some sort of romantic gesture.  
+Learning how to send notifications in iOS and create reminders was a fun task. The project was inspired by the book "5 Love Languages" and was simple. The user gets daily reminders to do some sort of romantic gesture.
+
+## Video
+
+This project is document here:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dzaCMaXOOEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Notifications
 
@@ -14,4 +19,4 @@ Later I found a way to create local notifications but with how this app sent out
 
 ## Reminders
 
-So to simplify the project it uses the existing native iOS app Reminders to keep track of notifications. The app creates a list and stocks it full of reminders. Now, users can view, edit, and delete reminders instead of me having to do the duplicate building. If it already exists why build it? 
+So to simplify the project it uses the existing native iOS app Reminders to keep track of notifications. The app creates a list and stocks it full of reminders. Now, users can view, edit, and delete reminders instead of me having to do the duplicate building. If it already exists why build it?
