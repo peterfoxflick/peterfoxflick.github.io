@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Using iCloud Data
-subtitle: A simple color swatch app that uses iCloud data
+title: Using CloudKit
+subtitle: A simple color swatch app that uses CloudKit
 tags: [iOS]
 ---
 
-Heres my ideas for the colors app, and its expirimental use of iCloud data
+Heres my ideas for the colors app, and its experimental use of Cloud kit and Core Data
 
 ## Phase 1
 
@@ -23,4 +23,9 @@ Heres my ideas for the colors app, and its expirimental use of iCloud data
 ## Day log
 
 ### Day 1
-Completed color view, and color view model will change from rgb to hex
+Completed color view, and color view model will change from RGB to hex
+
+### Day 2
+Created list view for viewing swatches, colors etc
+
+Need to fix hex converter (doesn't add 0's)
