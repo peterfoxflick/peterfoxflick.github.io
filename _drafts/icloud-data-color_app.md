@@ -29,3 +29,8 @@ Completed color view, and color view model will change from RGB to hex
 Created list view for viewing swatches, colors etc
 
 Need to fix hex converter (doesn't add 0's)
+
+### Day 3 - 4
+Cloudkit can mirror core data so lets get that working first.
+Got palettes main data manager created.
+Renamed swatches -> palettes and colors -> swatches
