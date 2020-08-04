@@ -9,7 +9,7 @@ Learning how to send notifications in iOS and create reminders was a fun task. T
 
 ## Video
 
-This project is document here:
+This project is documented here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dzaCMaXOOEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Notifications
