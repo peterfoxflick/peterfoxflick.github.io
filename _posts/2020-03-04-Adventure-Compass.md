@@ -19,4 +19,4 @@ To save time, I built this rather simple app in an afternoon. The user would cli
 
  Besides providing a phone number and email to contact in case something goes horribly wrong, the review process was the easiest part. I waited a day in anticipation and received a concise congratulations email that my app was live. You can even download it here:
 
-[![Get App link](assets/img/appStoreImg.svg)](https://apps.apple.com/us/app/adventure-compass/id1512049941)
+[![Get App link](https://peterfoxflick.com/assets/img/appStoreImg.svg)](https://apps.apple.com/us/app/adventure-compass/id1512049941)
